@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hj49wo85v-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hj49wo85v-python-gitops
